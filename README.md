@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @euana3, real name: Eunise
-- 👀 I’m interested in UI front-end developer career
-- 🌱 I’m currently learning Html, CSS, JavaScript
+- 👀 I’m interested in Angular front-end developer career
+- 🌱 I’m currently learning Html, SCSS, JavaScript, TypeScript, Bootstrap
 - 💞️ I’m looking for a carrer opportunity
 - 📫 How to reach me eunisealyssatsm@outlook.com 
 - 😄 Pronouns: SHE/HER
